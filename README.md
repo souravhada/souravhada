@@ -1,5 +1,17 @@
-# 💫 About Me:
-Hey there! Thanks for stopping by to learn a bit about Sourav. He's a Data Scientist by profession, though he remains humble about his skills (but hey, confidence is key, right? #motivation).<br><br>Sourav is experienced in Machine Learning and Deep Learning, and if you're curious about his expertise, feel free to check out his projects (#Trust Issues, anyone?).<br><br>Lately, Sourav has been eager to delve into writing research papers in Machine Learning domains and is actively seeking collaborators. So, if you're interested in teaming up, he'd love to chat!<br><br>In his downtime, Sourav enjoys watching StatQuest (a bit of a nerd, but in the best way) and Formula 1 racing. He might claim he knows all the cool science stuff behind it, but let's be real—he's probably just a huge Lewis Hamilton fan (not that there's anything wrong with that!).<br><br>Oh, and if you want to reach out to him, you can shoot him an email at souravhada123@gmail.com. Yeah, he admits it's not the most inspired email address choice, but hey, he came up with it in middle school!
+# Meet Sourav!
+
+Hey there! Thanks for stopping by to learn a bit about Sourav. 
+
+He's a **Data Scientist** by profession, though he remains humble about his skills (but hey, confidence is key, right? **#motivation**).
+
+Sourav is experienced in **Machine Learning** and **Deep Learning**, and if you're curious about his expertise, feel free to check out his projects (*#Trust Issues*, anyone?).
+
+Lately, Sourav has been eager to delve into writing research papers in Machine Learning domains and is actively seeking collaborators. So, if you're interested in teaming up, he'd love to chat!
+
+In his downtime, Sourav enjoys watching **StatQuest** (a bit of a nerd, but in the best way) and **Formula 1** racing. He might claim he knows all the cool science stuff behind it, but let's be real—he's probably just a huge Lewis Hamilton fan (not that there's anything wrong with that!).
+
+Oh, and if you want to reach out to him, you can shoot him an email at [souravhada123@gmail.com](mailto:souravhada123@gmail.com). Yeah, he admits it's not the most inspired email address choice, but hey, he came up with it in middle school!
+
 
 
 ## 🌐 Socials:
