@@ -1,16 +1,31 @@
-# Meet Sourav!
+# Welcome to Sourav's GitHub!
 
-Hey there! Thanks for stopping by to learn a bit about Sourav. 
+👨‍💻 **Sourav is a Data Scientist** based in Pune, leveraging a strong background in **Machine Learning and Deep Learning** to drive impactful business solutions. Despite his impressive skills, he remains humble—but don't let that fool you; he's a powerhouse of knowledge!
 
-He's a **Data Scientist** by profession, though he remains humble about his skills (but hey, confidence is key, right? **#motivation**).
+### Professional Highlights
+- **Current Role**: Leading critical data science projects at [CoachX.Live](https://coachx.live/), including development of an NLP-based chatbot that has significantly enhanced user interaction.
+- **Past Experience**: As a Data Analyst at JKC Softwares, automated and enhanced analytics for an online doctor booking platform, boosting profits by 30%.
 
-Sourav is experienced in **Machine Learning** and **Deep Learning**, and if you're curious about his expertise, feel free to check out his projects (*#Trust Issues*, anyone?).
+### Academics and Publications
+- **Education**: Holds a Bachelor of Technology in CSE from Amity University, showcasing a strong academic record.
+- **Publications**: Recently presented on "Energy Prediction in Urban Areas Using Machine Learning and Deep Learning" at the 10th IEEE UPCON. [Read More](https://ieeexplore.ieee.org/abstract/document/10434347)
 
-Lately, Sourav has been eager to delve into writing research papers in Machine Learning domains and is actively seeking collaborators. So, if you're interested in teaming up, he'd love to chat!
+### Projects Spotlight
+- **Image Classification with SVM**: Developed and deployed an SVM-based model, complete with a Flask web interface. [Explore the Project](https://github.com/souravhada/ML-ImageClassification-HandcraftedFeatures)
+- **Workplace Absenteeism Prediction**: Created a logistic regression model with 76% accuracy, providing insights into key predictors of absenteeism. [Check it out!](https://github.com/souravhada/Absenteeism-Prediction)
+- **Real-time Text Similarity**: Built a Flask app utilizing Universal Sentence Encoder for semantic relationship assessments. [See Live](https://github.com/souravhada/Semantic_Similarity_Calculator)
 
-In his downtime, Sourav enjoys watching **StatQuest** (a bit of a nerd, but in the best way) and **Formula 1** racing. He might claim he knows all the cool science stuff behind it, but let's be real—he's probably just a huge Lewis Hamilton fan (not that there's anything wrong with that!).
+### Looking to Collaborate?
+Sourav is keen on diving deeper into writing research papers within the Machine Learning domain and is always looking for collaborators. If you're interested in making a dent in the world of data, he'd love to chat!
 
-Oh, and if you want to reach out to him, you can shoot him an email at [souravhada123@gmail.com](mailto:souravhada123@gmail.com). Yeah, he admits it's not the most inspired email address choice, but hey, he came up with it in middle school!
+### Personal Interests
+In his downtime, Sourav enjoys demystifying data with StatQuest and cheering on his favorite Formula 1 driver, Lewis Hamilton. Yes, he’s a bit of a nerd, but that’s what makes him great!
+
+📧 **Reach Out!** Feel free to shoot him an email at [souravhada123@gmail.com](mailto:souravhada123@gmail.com) (Yep, it’s from middle school, but it sticks!)
+
+### Connect with Sourav
+- [LinkedIn](https://www.linkedin.com/in/sourav-hada/)
+- [GitHub](https://github.com/souravhada)
 
 
 
