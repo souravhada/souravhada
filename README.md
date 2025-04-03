@@ -2,13 +2,13 @@
 
 Hey there! Thanks for stopping by to learn a bit about Sourav.  
 
-He's a **Business Intelligence & Data Analytics Specialist** who loves turning raw data into meaningful insights. While he’s always learning and improving, he's confident in his ability to make data-driven decisions that drive business success (**#DataNerd**).  
+He's a **Business Intelligence & Data Analytics Specialist** passionate about **Machine Learning & Deep Learning**. While he’s always learning and improving, he's confident in his ability to make data-driven decisions that drive business success (**#DataNerd**).  
 
-Sourav is skilled in **Data Analysis, Reporting, Dashboarding**, and **SQL**, with a strong command of **Power BI, Excel, and Python**. If you're curious about his work, check out some of his projects (*Data never lies—unless it's messy!*).  
+Sourav specializes in **Data Analysis, Reporting, Dashboarding**, and **SQL**, with a strong command of **Power BI, Excel, and Python**. He also works on **ML & DL projects**, applying predictive modeling and automation to solve real-world problems. If you're curious about his work, check out some of his projects (*because data doesn’t lie—unless it's messy!*).  
 
-Recently, he’s been diving deeper into **data storytelling and automation**, constantly exploring new ways to make insights more actionable. If you're looking for someone to **optimize your reporting, streamline data processes, or build interactive dashboards**, he's your guy!  
+Recently, he’s been diving deeper into **data storytelling and ML-based analytics**, constantly exploring new ways to make insights more actionable. If you're looking for someone to **optimize your reporting, streamline data processes, build interactive dashboards, or apply ML to business problems**, he's your guy!  
 
-In his free time, you’ll find him geeking out over **public transit data**, watching **Formula 1** (yes, he’s a Lewis Hamilton fan), or learning about the latest trends in BI and analytics.  
+In his free time, you’ll find him geeking out over **public transit data**, watching **Formula 1** (yes, he’s a Lewis Hamilton fan), or learning about the latest trends in **BI, analytics, and ML**.  
 
 Want to collaborate or just talk data? Reach out to him at [souravhada123@gmail.com](mailto:souravhada123@gmail.com) (yes, he made it in middle school, don’t judge).  
 
