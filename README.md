@@ -8,7 +8,7 @@ Sourav specializes in **Data Analysis, Reporting, Dashboarding**, and **SQL**, w
 
 Recently, he’s been diving deeper into **data storytelling and ML-based analytics**, constantly exploring new ways to make insights more actionable. If you're looking for someone to **optimize your reporting, streamline data processes, build interactive dashboards, or apply ML to business problems**, he's your guy!  
 
-In his free time, you’ll find him geeking out over **public transit data**, watching **Formula 1** (yes, he’s a Lewis Hamilton fan), or learning about the latest trends in **BI, analytics, and ML**.  
+In his free time, you’ll find him geeking out over **Railways and public transit**, watching **Sports**, reading a **book**, or learning about the latest trends in **BI, analytics, and ML**.  
 
 Want to collaborate or just talk data? Reach out to him at [souravhada123@gmail.com](mailto:souravhada123@gmail.com) (yes, he made it in middle school, don’t judge).  
 
