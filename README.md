@@ -29,13 +29,3 @@ Want to collaborate or just talk data? Reach out to him at [souravhada123@gmail.
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=Tableau&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=souravhada&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=souravhada&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souravhada&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
-
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=souravhada&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----  
-[![](https://visitcount.itsvg.in/api?id=souravhada&icon=0&color=0)](https://visitcount.itsvg.in)  
